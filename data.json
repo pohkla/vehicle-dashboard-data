@@ -1,4 +1,325 @@
 {
-  "data": [],
-  "updated_at": null
+  "version": 1,
+  "updated_at": "2026-05-01T04:46:57.137621",
+  "daily_records": [
+    {
+      "date_text": "20/04/2569",
+      "iso_date": "2026-04-20",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "1กฐ 9736 พท (8193069247666832)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "20/04/2569",
+      "iso_date": "2026-04-20",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "1กง 2862 พท (8193069247694666)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "20/04/2569",
+      "iso_date": "2026-04-20",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "1กต 8375 พท (8193069248167682)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "20/04/2569",
+      "iso_date": "2026-04-20",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "1กฎ 2569 พท (8193069248227974)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "20/04/2569",
+      "iso_date": "2026-04-20",
+      "vehicle_type": "pickup",
+      "vehicle_title": "รถกระบะ",
+      "icon": "🚛",
+      "company": "ไทยไพบูลย์",
+      "item": "บท 5094 พท (CTP-3205192397-26N10)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "20/04/2569",
+      "iso_date": "2026-04-20",
+      "vehicle_type": "pickup",
+      "vehicle_title": "รถกระบะ",
+      "icon": "🚛",
+      "company": "ไทยไพบูลย์",
+      "item": "บท 4958 พท (CTP-3205193031-26N10)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "20/04/2569",
+      "iso_date": "2026-04-20",
+      "vehicle_type": "pickup",
+      "vehicle_title": "รถกระบะ",
+      "icon": "🚛",
+      "company": "ไทยไพบูลย์",
+      "item": "บย 1916 สข (CTP-3205194403-26N10)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "21/04/2569",
+      "iso_date": "2026-04-21",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "กนง 756 พท (8193069248385091)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "21/04/2569",
+      "iso_date": "2026-04-21",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "คงธ 937 สข (8193069248400723)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "21/04/2569",
+      "iso_date": "2026-04-21",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "1กข 1903 พท (8193069248731823)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "21/04/2569",
+      "iso_date": "2026-04-21",
+      "vehicle_type": "sedan",
+      "vehicle_title": "รถยนต์เก๋ง",
+      "icon": "🚗",
+      "company": "ERGO",
+      "item": "กง 8504 พัทลุง (260170M007205710)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "22/04/2569",
+      "iso_date": "2026-04-22",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "กยพ 242 พัทลุง (8193069249041363)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "22/04/2569",
+      "iso_date": "2026-04-22",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "1กฒ 1266 สงขลา (8193069249297390)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "22/04/2569",
+      "iso_date": "2026-04-22",
+      "vehicle_type": "pickup",
+      "vehicle_title": "รถกระบะ",
+      "icon": "🚛",
+      "company": "ERGO",
+      "item": "บง 172 พัทลุง (260170M007205756)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "22/04/2569",
+      "iso_date": "2026-04-22",
+      "vehicle_type": "sedan",
+      "vehicle_title": "รถยนต์เก๋ง",
+      "icon": "🚗",
+      "company": "ไทยไพบูลย์",
+      "item": "กพ 7982 พัทลุง (CTP-3205206693-26N10)",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "23/04/2569",
+      "iso_date": "2026-04-23",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069249522812 ขกร128 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "23/04/2569",
+      "iso_date": "2026-04-23",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069249606532 ขงน150 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "23/04/2569",
+      "iso_date": "2026-04-23",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069249634263 1กต798 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "23/04/2569",
+      "iso_date": "2026-04-23",
+      "vehicle_type": "pickup",
+      "vehicle_title": "รถกระบะ",
+      "icon": "🚛",
+      "company": "ไทยไพบูลย์",
+      "item": "CTP-3205212923-26N10 บฉ5710พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "23/04/2569",
+      "iso_date": "2026-04-23",
+      "vehicle_type": "pickup",
+      "vehicle_title": "รถกระบะ",
+      "icon": "🚛",
+      "company": "ERGO",
+      "item": "260170M007205822 บฉ-5219ปัตตานี",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "23/04/2569",
+      "iso_date": "2026-04-23",
+      "vehicle_type": "sedan",
+      "vehicle_title": "รถยนต์เก๋ง",
+      "icon": "🚗",
+      "company": "ERGO",
+      "item": "260170M007205820 กต-8134พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "24/04/2569",
+      "iso_date": "2026-04-24",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069249948320 1กฐ7594 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "24/04/2569",
+      "iso_date": "2026-04-24",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069250001225 1กจ9455 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "24/04/2569",
+      "iso_date": "2026-04-24",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069250003944 1กฎ3011 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "24/04/2569",
+      "iso_date": "2026-04-24",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069250014934 1กท9266 พท",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "24/04/2569",
+      "iso_date": "2026-04-24",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069250018073 1กฉ2987 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "24/04/2569",
+      "iso_date": "2026-04-24",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069250020173 1กฒ6557 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "24/04/2569",
+      "iso_date": "2026-04-24",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069250324846 1กถ1355 พท",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "24/04/2569",
+      "iso_date": "2026-04-24",
+      "vehicle_type": "pickup",
+      "vehicle_title": "รถกระบะ",
+      "icon": "🚛",
+      "company": "ERGO",
+      "item": "260170M007205865 ผฉ-2432สงขลา",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "24/04/2569",
+      "iso_date": "2026-04-24",
+      "vehicle_type": "sedan",
+      "vehicle_title": "รถยนต์เก๋ง",
+      "icon": "🚗",
+      "company": "ไทยไพบูลย์",
+      "item": "CTP-3205215306-26N10 กต3700 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    },
+    {
+      "date_text": "25/04/2569",
+      "iso_date": "2026-04-25",
+      "vehicle_type": "motorcycle",
+      "vehicle_title": "รถจักรยานยนต์",
+      "icon": "🏍",
+      "company": "",
+      "item": "8193069250437045 1กฐ7386 พัทลุง",
+      "created_at": "2026-05-01T04:46:57.137621"
+    }
+  ],
+  "weekly_summaries": [
+    {
+      "period_key": "📊 🏍 🚛 🚗 รายสัปดาห์ 25690420 - 25690426",
+      "car_amount": 8249,
+      "motorcycle_amount": 6837,
+      "total_amount": 15086,
+      "updated_at": "2026-05-01T04:46:57.137621"
+    }
+  ]
 }
