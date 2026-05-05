@@ -1,6 +1,8 @@
 {
-  "version": 1,
-  "updated_at": "2026-05-05T15:53:05.123577",
+  "version": 2,
+  "app_version": "v6.8.1 Error Hotfix + Vehicle Share Layout",
+  "import_type": "excel",
+  "updated_at": "2026-05-05T15:58:12.079362",
   "daily_records": [
     {
       "date_text": "20/04/2569",
@@ -8,9 +10,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069247666832_ 1กฐ9736 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "20/04/2569",
@@ -18,9 +24,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069247694666_ 1กง2862 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "20/04/2569",
@@ -28,9 +38,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069248167682_1กต8375 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "20/04/2569",
@@ -38,9 +52,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069248227974_1กฎ2569 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "20/04/2569",
@@ -50,7 +68,11 @@
       "icon": "🚛",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205192397-26N10_บท 5094 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "20/04/2569",
@@ -60,7 +82,11 @@
       "icon": "🚛",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205193031-26N10_บท 4958 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "20/04/2569",
@@ -70,7 +96,11 @@
       "icon": "🚛",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205194403-26N10_บย 1916 สข",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "21/04/2569",
@@ -78,9 +108,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069248385091_ กนง756 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "21/04/2569",
@@ -88,9 +122,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069248400723_คงธ937 สข",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "21/04/2569",
@@ -98,9 +136,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069248731823_1กข1903 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "21/04/2569",
@@ -110,7 +152,11 @@
       "icon": "🚗",
       "company": "ERGO",
       "item": "กง 8504 พัทลุง (260170M007205710)",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 645.21,
+      "collected_amount": 545.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "22/04/2569",
@@ -118,9 +164,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069249041363_กยพ242 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "22/04/2569",
@@ -128,9 +178,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069249297390_1กฒ1266 สงขลา",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "22/04/2569",
@@ -140,7 +194,11 @@
       "icon": "🚛",
       "company": "ERGO",
       "item": "260170M007205756_บง 172 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "22/04/2569",
@@ -150,7 +208,11 @@
       "icon": "🚗",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205206693-26N10_กพ 7982 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 645.21,
+      "collected_amount": 545.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "23/04/2569",
@@ -158,9 +220,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069249522812_ขกร128 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "23/04/2569",
@@ -168,9 +234,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069249606532_ขงน150 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "23/04/2569",
@@ -178,9 +248,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069249634263_1กต798 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 367.12,
+      "collected_amount": 377.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "23/04/2569",
@@ -190,7 +264,11 @@
       "icon": "🚛",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205212923-26N10 บฉ5710พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "23/04/2569",
@@ -200,7 +278,11 @@
       "icon": "🚛",
       "company": "ERGO",
       "item": "260170M007205822 บฉ-5219ปัตตานี",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "23/04/2569",
@@ -210,7 +292,11 @@
       "icon": "🚗",
       "company": "ERGO",
       "item": "260170M007205820 กต-8134พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 645.21,
+      "collected_amount": 545.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "24/04/2569",
@@ -218,9 +304,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069249948320_1กฐ7594 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "24/04/2569",
@@ -228,9 +318,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069250001225_1กจ9455 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "24/04/2569",
@@ -238,9 +332,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069250003944_1กฎ3011 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "24/04/2569",
@@ -248,9 +346,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069250014934_1กท9266 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "24/04/2569",
@@ -258,9 +360,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069250018073_1กฉ2987 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "24/04/2569",
@@ -268,9 +374,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069250020173_1กฒ6557 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "24/04/2569",
@@ -278,9 +388,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069250324846 1กถ1355 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "24/04/2569",
@@ -290,7 +404,11 @@
       "icon": "🚛",
       "company": "ERGO",
       "item": "260170M007205865 ผฉ-2432สงขลา",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "24/04/2569",
@@ -300,7 +418,11 @@
       "icon": "🚗",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205215306-26N10 กต3700 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 645.21,
+      "collected_amount": 545.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "25/04/2569",
@@ -308,9 +430,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069250437045 1กฐ7386 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "27/04/2569",
@@ -318,9 +444,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069250829771 1กณ1642 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "27/04/2569",
@@ -330,7 +460,11 @@
       "icon": "🚛",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205228213-26N10 ผบ8790 สงขลา",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "27/04/2569",
@@ -340,7 +474,11 @@
       "icon": "🚗",
       "company": "ERGO",
       "item": "260170M007205922 ญณ1132 กรุงเทพ",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 645.21,
+      "collected_amount": 545.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "27/04/2569",
@@ -350,7 +488,11 @@
       "icon": "🚗",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205227293-26N10 กจ3787 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 645.21,
+      "collected_amount": 545.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "28/04/2569",
@@ -358,9 +500,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069251531193 1กก3172 พระนครศรีอยุธยา",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "28/04/2569",
@@ -368,9 +514,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069251582890 1กง3384 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "28/04/2569",
@@ -378,9 +528,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069251591496 1กท2608 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "29/04/2569",
@@ -388,9 +542,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069252072934 1กญ6218 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "29/04/2569",
@@ -398,9 +556,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069252076600 1กช6115 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "29/04/2569",
@@ -408,9 +570,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069252194056 1กช8063 สงขลา",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "29/04/2569",
@@ -418,9 +584,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069252200555 ขกร854 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "29/04/2569",
@@ -430,7 +600,11 @@
       "icon": "🚗",
       "company": "ERGO",
       "item": "260170M007206026 กท-3043พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 645.21,
+      "collected_amount": 545.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "30/04/2569",
@@ -438,9 +612,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069252900765 1กฐ7590 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "30/04/2569",
@@ -450,7 +628,11 @@
       "icon": "🚗",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205241884-26N10 ขน2175 สงขลา",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 645.21,
+      "collected_amount": 545.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "30/04/2569",
@@ -460,7 +642,11 @@
       "icon": "🚗",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205243441-26N10 กง-156 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 645.21,
+      "collected_amount": 545.0,
+      "import_type": "excel",
+      "source_sheet": "เมษายน",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "01/05/2569",
@@ -468,9 +654,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069253010794 กษบ164 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "01/05/2569",
@@ -478,9 +668,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069253042084 1กย7933 สงขลา",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 266.76,
+      "collected_amount": 276.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "01/05/2569",
@@ -488,9 +682,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069253143411 1กค9258 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "01/05/2569",
@@ -498,9 +696,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069253182633 1กง2528 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "01/05/2569",
@@ -508,9 +710,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069253184173 กรล114 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "01/05/2569",
@@ -520,7 +726,11 @@
       "icon": "🚛",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205246858-26N10 ผน4089 สงขลา",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "01/05/2569",
@@ -530,7 +740,11 @@
       "icon": "🚛",
       "company": "ไทยไพบูลย์ TPB",
       "item": "CTP-3205249913-26N10 ผก1444 สงขลา",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 967.28,
+      "collected_amount": 867.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "02/05/2569",
@@ -538,9 +752,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069253918403_1กท9169 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "02/05/2569",
@@ -548,9 +766,13 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069254043600_1กฌ6211 พท",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     },
     {
       "date_text": "02/05/2569",
@@ -558,25 +780,67 @@
       "vehicle_type": "motorcycle",
       "vehicle_title": "รถจักรยานยนต์",
       "icon": "🏍",
-      "company": "บริษัทกลาง RVP",
+      "company": "บริษัทกลางฯ RVP",
       "item": "8193069254371233_1กณ2908 พัทลุง",
-      "created_at": "2026-05-05T15:53:04.829382"
+      "net_amount": 323.14,
+      "collected_amount": 340.0,
+      "import_type": "excel",
+      "source_sheet": "พฤษภาคม",
+      "created_at": "2026-05-05T15:58:12.078582"
     }
   ],
   "weekly_summaries": [
     {
-      "period_key": "สัปดาห์ เมษายน",
-      "car_amount": 11841,
-      "motorcycle_amount": 9897,
-      "total_amount": 21738,
-      "updated_at": "2026-05-05T15:53:04.829382"
-    },
-    {
-      "period_key": "สัปดาห์ พฤษภาคม",
-      "car_amount": 1734,
-      "motorcycle_amount": 2656,
-      "total_amount": 4390,
-      "updated_at": "2026-05-05T15:53:04.829382"
+      "period_key": "Excel Import รายงานประจำสัปดาห์.xlsx",
+      "car_amount": 15479.69,
+      "motorcycle_amount": 11943.78,
+      "total_amount": 27423.47,
+      "updated_at": "2026-05-05T15:58:12.079362"
     }
-  ]
+  ],
+  "excel_debug": {
+    "filename": "รายงานประจำสัปดาห์.xlsx",
+    "sheet_stats": [
+      {
+        "sheet": "ข้อมูล",
+        "status": "skip",
+        "reason": "ไม่พบ header รายการ",
+        "rows": 0
+      },
+      {
+        "sheet": "เมษายน",
+        "status": "parsed",
+        "header_row": 1,
+        "headers": [
+          "ลำดับ",
+          "วันที่",
+          "ประเภทรถ",
+          "บริษัท",
+          "รหัส",
+          "ยอดสุทธิ",
+          "ยอดเก็บจริง",
+          ""
+        ],
+        "rows": 46
+      },
+      {
+        "sheet": "พฤษภาคม",
+        "status": "parsed",
+        "header_row": 1,
+        "headers": [
+          "ลำดับ",
+          "วันที่",
+          "ประเภทรถ",
+          "บริษัท",
+          "รหัส",
+          "ยอดสุทธิ",
+          "ยอดเก็บจริง",
+          ""
+        ],
+        "rows": 10
+      }
+    ],
+    "parsed_rows": 56,
+    "required_money_fields_ok": true
+  }
 }
