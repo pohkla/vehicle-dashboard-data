@@ -1,8 +1,8 @@
 {
   "version": 3,
-  "app_version": "v14.13 Expense Excel Integration",
+  "app_version": "v14.13.1 Expense Render Hotfix",
   "import_type": "excel",
-  "updated_at": "2026-05-22T03:50:35.730704",
+  "updated_at": "2026-05-22T03:57:08.879143",
   "daily_records": [
     {
       "date_text": "20/04/2569",
@@ -17,7 +17,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "20/04/2569",
@@ -32,7 +32,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "20/04/2569",
@@ -47,7 +47,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "20/04/2569",
@@ -62,7 +62,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "20/04/2569",
@@ -77,7 +77,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "20/04/2569",
@@ -92,7 +92,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "20/04/2569",
@@ -107,7 +107,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "21/04/2569",
@@ -122,7 +122,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "21/04/2569",
@@ -137,7 +137,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "21/04/2569",
@@ -152,7 +152,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "21/04/2569",
@@ -167,7 +167,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "22/04/2569",
@@ -182,7 +182,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "22/04/2569",
@@ -197,7 +197,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "22/04/2569",
@@ -212,7 +212,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "22/04/2569",
@@ -227,7 +227,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "23/04/2569",
@@ -242,7 +242,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "23/04/2569",
@@ -257,7 +257,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "23/04/2569",
@@ -272,7 +272,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "23/04/2569",
@@ -287,7 +287,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "23/04/2569",
@@ -302,7 +302,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "23/04/2569",
@@ -317,7 +317,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "24/04/2569",
@@ -332,7 +332,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "24/04/2569",
@@ -347,7 +347,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "24/04/2569",
@@ -362,7 +362,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "24/04/2569",
@@ -377,7 +377,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "24/04/2569",
@@ -392,7 +392,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "24/04/2569",
@@ -407,7 +407,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "24/04/2569",
@@ -422,7 +422,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "24/04/2569",
@@ -437,7 +437,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "24/04/2569",
@@ -452,7 +452,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "25/04/2569",
@@ -467,7 +467,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "27/04/2569",
@@ -482,7 +482,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "27/04/2569",
@@ -497,7 +497,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "27/04/2569",
@@ -512,7 +512,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "27/04/2569",
@@ -527,7 +527,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "28/04/2569",
@@ -542,7 +542,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "28/04/2569",
@@ -557,7 +557,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "28/04/2569",
@@ -572,7 +572,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "29/04/2569",
@@ -587,7 +587,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "29/04/2569",
@@ -602,7 +602,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "29/04/2569",
@@ -617,7 +617,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "29/04/2569",
@@ -632,7 +632,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "29/04/2569",
@@ -647,7 +647,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "30/04/2569",
@@ -662,7 +662,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "30/04/2569",
@@ -677,7 +677,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "30/04/2569",
@@ -692,7 +692,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "เมษายน",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "01/05/2569",
@@ -707,7 +707,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "01/05/2569",
@@ -722,7 +722,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "01/05/2569",
@@ -737,7 +737,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "01/05/2569",
@@ -752,7 +752,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "01/05/2569",
@@ -767,7 +767,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "01/05/2569",
@@ -782,7 +782,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "01/05/2569",
@@ -797,7 +797,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "04/05/2569",
@@ -812,7 +812,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "05/05/2569",
@@ -827,7 +827,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "05/05/2569",
@@ -842,7 +842,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "05/05/2569",
@@ -857,7 +857,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "05/05/2569",
@@ -872,7 +872,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "05/05/2569",
@@ -887,7 +887,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "05/05/2569",
@@ -902,7 +902,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "06/05/2569",
@@ -917,7 +917,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "06/05/2569",
@@ -932,7 +932,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "06/05/2569",
@@ -947,7 +947,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "06/05/2569",
@@ -962,7 +962,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "06/05/2569",
@@ -977,7 +977,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "07/05/2569",
@@ -992,7 +992,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "07/05/2569",
@@ -1007,7 +1007,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "08/05/2569",
@@ -1022,7 +1022,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "08/05/2569",
@@ -1037,7 +1037,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "08/05/2569",
@@ -1052,7 +1052,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "08/05/2569",
@@ -1067,7 +1067,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "11/05/2569",
@@ -1082,7 +1082,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "11/05/2569",
@@ -1097,7 +1097,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "11/05/2569",
@@ -1112,7 +1112,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "11/05/2569",
@@ -1127,7 +1127,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "11/05/2569",
@@ -1142,7 +1142,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "11/05/2569",
@@ -1157,7 +1157,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "12/05/2569",
@@ -1172,7 +1172,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "12/05/2569",
@@ -1187,7 +1187,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "12/05/2569",
@@ -1202,7 +1202,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "12/05/2569",
@@ -1217,7 +1217,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "12/05/2569",
@@ -1232,7 +1232,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "13/05/2569",
@@ -1247,7 +1247,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "13/05/2569",
@@ -1262,7 +1262,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "13/05/2569",
@@ -1277,7 +1277,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "14/05/2569",
@@ -1292,7 +1292,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "14/05/2569",
@@ -1307,7 +1307,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "14/05/2569",
@@ -1322,7 +1322,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "14/05/2569",
@@ -1337,7 +1337,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "15/05/2569",
@@ -1352,7 +1352,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "15/05/2569",
@@ -1367,7 +1367,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "15/05/2569",
@@ -1382,7 +1382,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "15/05/2569",
@@ -1397,7 +1397,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "15/05/2569",
@@ -1412,7 +1412,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "16/05/2569",
@@ -1427,7 +1427,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     },
     {
       "date_text": "16/05/2569",
@@ -1442,7 +1442,7 @@
       "expense_amount": 0.0,
       "import_type": "excel",
       "source_sheet": "พฤษภาคม",
-      "created_at": "2026-05-22T03:50:35.724402"
+      "created_at": "2026-05-22T03:57:08.873439"
     }
   ],
   "weekly_summaries": [
@@ -1451,7 +1451,7 @@
       "car_amount": 30654.43,
       "motorcycle_amount": 19912.07,
       "total_amount": 50566.5,
-      "updated_at": "2026-05-22T03:50:35.730704"
+      "updated_at": "2026-05-22T03:57:08.879143"
     }
   ],
   "expense_records": [
